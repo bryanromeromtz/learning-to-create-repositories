@@ -2,7 +2,6 @@
 
 
 > My code for the git project
-
 ## i'm in the feature branch 
 
 
@@ -10,4 +9,5 @@
 
 > Made changes for git pull demo
 
+> Made more changes for git pull/fetch demo
 > Made more changes for git pull/fetch demo
