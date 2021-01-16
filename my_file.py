@@ -1,5 +1,5 @@
-print('Hi Git')
-print('Hi Git')
+print('merge conflict')
+print('merge conflict')
 
 
 print('Hi from another dev')
