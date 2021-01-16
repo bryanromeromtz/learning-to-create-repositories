@@ -1,7 +1,7 @@
 # My git project
 
 
-> My code for the git project
+> My scary merge conflict code
 ## i'm in the feature branch 
 
 
