@@ -12,9 +12,7 @@ def hi_there():
   print('Hi there')  
 
 
-def mi_new_function():
-    return ('HI')
-
-print("Hi again")
+def merge_conflict():
+    return ('Updated python function with merge conflict')
   
 
