@@ -13,8 +13,8 @@ def hi_there():
 
 
 def mi_new_function():
-    return ('HI')
+    return ('my local change')
 
-print("Hi again")
+
   
 
